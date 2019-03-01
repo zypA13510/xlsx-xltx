@@ -1,0 +1,9 @@
+{
+	"overrides": [{
+		"files": "*.xml",
+		"options": {
+			"parser": "html"
+		}
+	}]
+}
+

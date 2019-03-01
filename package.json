@@ -1,0 +1,22 @@
+{
+  "name": "xlsx-xltx",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zypA13510/xlsx-xltx.git"
+  },
+  "author": "Yuping Zuo (https://github.com/zypA13510)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/zypA13510/xlsx-xltx/issues"
+  },
+  "homepage": "https://github.com/zypA13510/xlsx-xltx#readme",
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
